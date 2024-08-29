@@ -1,1 +1,0 @@
-This folder should contain the model.pth file and class_names.json file once the model is trained. For the initial setup, you may need to manually create these files or run the training script first to generate them.
